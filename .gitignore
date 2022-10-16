@@ -1,1 +1,7 @@
 .env
+__pycache__
+.vim/
+.vscode/
+features.xml
+*_pb2.py
+*.pb
